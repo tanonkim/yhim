@@ -1,0 +1,11 @@
+id,nickname,email,password,profile_image,gender,bio,birthdate,is_superhost,kakao_id,github_id
+1,짱구,jjango9@gmail.com,code1234!,https://github.com/tanonkim/yhim/blob/master/profile_image/1.jpg?raw=true,1,안녕하세요 짱구입니다.,1992-03-05,1,1,1
+2,철수,soo@gmail.com,code1234!,https://github.com/tanonkim/yhim/blob/master/profile_image/2.jpg?raw=true,1,안녕하세요 철수입니다.,1992-03-06,1,2,2
+3,훈이,hoon@gmail.com,code1234!,https://github.com/tanonkim/yhim/blob/master/profile_image/3.jpg?raw=true,1,안녕하세요 훈이입니다.,1992-03-07,1,3,3
+4,유리,yu@gmail.com,code1234!,https://github.com/tanonkim/yhim/blob/master/profile_image/4.jpg?raw=true,2,안녕하세요 유리입니다.,1992-03-08,1,4,4
+5,맹구,maeng9@gmail.com,code1234!,https://github.com/tanonkim/yhim/blob/master/profile_image/5.jpg?raw=true,1,안녕하세요 맹구입니다.,1992-03-09,1,5,5
+6,짱아,jjangoa@gmai.com,code1234!,https://github.com/tanonkim/yhim/blob/master/profile_image/6.jpg?raw=true,2,안녕하세요 짱아입니다.,1992-03-10,1,6,6
+7,아이유,iu@gmai.com,code1234!,https://github.com/tanonkim/yhim/blob/master/profile_image/7.jpg?raw=true,2,안녕하세요 아이유입니다.,1992-03-11,1,7,7
+8,최코드,code1234@gmail.com,code1234!,https://github.com/tanonkim/yhim/blob/master/profile_image/8.jpg?raw=true,1,안녕하세요 최코드입니다.,1992-03-12,0,8,8
+9,김애플,apple@gmail.com,code1234!,https://github.com/tanonkim/yhim/blob/master/profile_image/9.jpg?raw=true,2,안녕하세요 김애플입니다.,1992-03-13,0,9,9
+10,최삼성,samsung@gmail.com,code1234!,https://github.com/tanonkim/yhim/blob/master/profile_image/10.jpg?raw=true,1,안녕하세요 최삼성입니다.,1992-03-14,0,10,10
